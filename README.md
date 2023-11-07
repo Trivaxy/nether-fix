@@ -1,11 +1,9 @@
-# Fox Loader Example Mod
+# NetherFix
 
-Example mod for [FoxLoader](https://github.com/Fox2Code/FoxLoader)
+A mod for Minecrat ReIndev v2.8 that fixes the game freezing when entering/leaving the nether.
 
-Rat block texture by [@silveros](https://github.com/silverosre)
+To be more specific, when attempting to exit from a portal whose height is greater than the minimum allowed size, your game will freeze. This mod fixes that.
 
-## Documentation
+Requires [FoxLoader](https://github.com/Fox2Code/FoxLoader) to use.
 
-For mixins usage check here: https://github.com/2xsaiko/mixin-cheatsheet
-
-For spark usage check here: https://spark.lucko.me/docs/Command-Usage
+You can find the jar file in the [releases](https://github.com/Trivaxy/nether-fix/releases) tab.
